@@ -1,12 +1,7 @@
 # markdowntestting
  
 Here is an image!
-
-<img src="test.svg" width="100%" >
-
-
-<iframe src="pingo.html"></iframe>
-
+<img src="test.svg" style="width: 100%;height: auto;display: block;">
 It was very nice 
 
 And here follows more text
