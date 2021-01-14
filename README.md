@@ -2,11 +2,9 @@
 
 Here is an image!
 
-<img src="test.svg" width="100%">
+<img src="test.svg" width="100%"> 
   
-It was very nice
-
-<object data="test.svg" type="image/svg+xml">Bla</object>
+It was very nice 
 
 And here follows more text
  
