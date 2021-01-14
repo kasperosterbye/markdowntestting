@@ -2,7 +2,7 @@
 
 Here is an image!
 
-<img src="test.svg" width="100%"> 
+<img src="test.svg" width="100%" height="auto"> 
   
 It was very nice 
 
