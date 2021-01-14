@@ -1,14 +1,4 @@
-# markdowntestting
-
-Here is an image!
-
-<svg viewBox="0 0 200 30" xmlns="http://www.w3.org/2000/svg" overflow="auto">
-  <text y="20">This text is wider than the SVG, so there should be a scrollbar shown.</text>
-</svg> 
-  
-It was very nice 
-
-<svg  width="100%" height="200"  overflow="scroll" xmlns="http://www.w3.org/2000/svg">
+<svg  width="100%" height="100%"  preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <ul>
@@ -18,5 +8,3 @@ It was very nice
     </div>
 </foreignObject>
 </svg>
-
-And here follows more text
